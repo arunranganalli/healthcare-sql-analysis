@@ -32,6 +32,8 @@ We work with multiple CSV datasets (patients, allergies, medications) and use SQ
 
 ✔  Frequently used medications for specific allergies
 
+✔  Top 10 Medications by Average Cost
+
 💡 Learnings
 
 ✅ Hands-on practice with SQL (CREATE, JOIN, GROUP BY, ORDER BY, aggregate functions).
