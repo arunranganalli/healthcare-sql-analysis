@@ -1,4 +1,4 @@
-# healthcare-sql-analysis
+# Healthcare Data Insights with SQL: Patient, Allergy & Medication Analysis
 "SQL project analyzing patient data and medications using PostgreSQL"
 📌 Project Overview
 This project demonstrates how SQL can be used to clean, analyze, and derive insights from real-world healthcare data.
